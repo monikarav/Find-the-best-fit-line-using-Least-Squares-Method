@@ -68,15 +68,15 @@ plt.show()
 ```
 # Output:
 ## Mean Values:
-![](./o5.jpg)
+![](./o5.jpeg)
 ## Value of m:
-![](./o4.jpg)
+![](./o4.jpeg)
 ## Value of b:
-![](./o3.jpg)
+![](./o3.jpeg)
 ## Value of Y_pred:
-![](./o2.jpg)
+![](./o2.jpeg)
 ## Graph:
-![](./o1.jpg)
+![](./o1.jpeg)
 
 # Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
